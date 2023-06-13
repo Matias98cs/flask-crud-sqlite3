@@ -1,0 +1,14 @@
+title {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+body {
+    background: #252525;
+    color: #ffff
+}
+
+.done {
+    text-decoration: line-through;
+    color: #cfcfcf;
+}
